@@ -16,7 +16,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and Description
-st.title("💽 Data Sweeper Sterling Integrator By Sayyed Jalees")
+st.title("💽 Data Sweeper Sterling Integrator By Talat Batool")
 st.write("Upload your CSV or Excel file, clean the data, and convert it as needed!")
 
 # File Uploader
